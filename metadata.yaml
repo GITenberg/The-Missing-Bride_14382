@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1307
     wikipedia: http://en.wikipedia.org/wiki/E._D._E._N._Southworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14382#The-Missing-Bride
 gutenberg_issued: '2004-12-20'
 gutenberg_type: Text
 identifiers:
